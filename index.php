@@ -103,7 +103,7 @@
 							<h2>Schedule</h2>
 							<h3>Here The shcedule you can choose</h3>
 						</header><h4>Time</h4>
-						<p>Friday</br>01.00 pm - 06.00 pm</br>Saturday </br>11.00 am - 02.00 pm</p>
+						<p>Friday</br>03.00 pm - 06.00 pm</br>Saturday </br>11.00 am - 02.00 pm</p>
 							<h4>Place</h4>
 							<p>Open place like library, cafetaria, etc.</p>
 					</div>
