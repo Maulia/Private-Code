@@ -54,7 +54,7 @@
 							Here a solution for you. Programming tutorial class</h3>
 							<p></p>
 						</header>
-						<span class="image"><img src="images/pc1.jpg" alt="" /></span>
+						<span class="image"><img src="images/pc.jpg" alt="" /></span>
 					</div>
 					<a href="#one" class="goto-next scrolly">Next</a>
 				</section>
