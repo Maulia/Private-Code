@@ -72,10 +72,10 @@
 									</header>
 								</div>
 								<div class="4u 12u$(medium)">
-									<p>For beginner in programming ofcourse coding is a hard part of your daily life, especially for some one who doesn't love to code. But as a student in Information Tehnology we have a ton of programming assignment. Lazy to find material for your code, it's suck!!</p>
+									<p>For beginner in programming of course coding is a hard part of your daily life, especially for someone who doesn't love to code. But as a student in Information Tehnology we have a ton of programming assignment. Lazy to find material for your code, it's suck!!</p>
 								</div>
 								<div class="4u$ 12u$(medium)">
-									<p>Here we are. We will help you, assign you, and give you better understanding about programming.</p>
+									<p>Here we are. You can learn programming by the help from Private Code tutor. Use the app to meet with your tutor.</p>
 								</div>
 							</div>
 						</div>
@@ -100,12 +100,12 @@
 					<span class="image fit main bottom"><img src="images/Legacy-code.jpg" alt="" /></span>
 					<div class="content">
 						<header>
-							<h2>Schedule</h2>
-							<h3>Here The shcedule you can choose</h3>
-						</header><h4>Time</h4>
-						<p>Friday</br>03.00 pm - 06.00 pm</br>Saturday </br>11.00 am - 02.00 pm</p>
-							<h4>Place</h4>
-							<p>Open place like library, cafetaria, etc.</p>
+							<h2>Join Us!</h2>
+							<h3>Choose your tutor</h3>
+							<h3>Make your appointment</h3>
+							<h3>Don't forget bring your Friends</h3>
+						</header>
+						
 					</div>
 					<a href="#four" class="goto-next scrolly">Next</a>
 				</section>
@@ -152,8 +152,9 @@
 							<h2>How About the price?</h2>
 							<p>Student Price</p>
 						</header>
-						<h3>Individual Class : 5 R.M/hours</br>
-						Group Class : 3 R.M/hours</br></h3>
+						<h3>Individual Class : 10 R.M/hours</br>
+						Group Class : 5 R.M/hours</br>
+						Online Class : 8 R.M/hours</br></h3>
 						<p>Group class consist 2-5 student, each student need to pay the price</p>
 
 					</div>
@@ -182,7 +183,7 @@
 				<footer id="footer">
 					
 					<ul class="copyright">
-						<li>&copy; Private Code.</li><li>Design by <a href="http://html5up.net">HTML5 UP</a></li>
+						<li>&copy; Private Code.</li>
 					</ul>
 				</footer>
 
